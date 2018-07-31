@@ -1,2 +1,2 @@
-# Virusdoll.githu.io
+# Virusdoll.github.io
 myblog
